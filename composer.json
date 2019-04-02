@@ -1,0 +1,21 @@
+{
+    "name": "jahem/allinpay",
+    "description": "allinpay",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jahem",
+            "email": "13680653051@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php" : ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Allinpay\\": "src/"
+        }
+    }
+}
