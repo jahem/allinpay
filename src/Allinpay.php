@@ -597,5 +597,4 @@ class Allinpay {
         curl_close($curl); // 关闭CURL会话
         return $result;
     }
-
 }
